@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "query": "What are the recommended HbA1c targets for adults with type 2 diabetes?"
+    },
+    {
+        "id": 2,
+        "query": "What lifestyle interventions are recommended for people with type 2 diabetes?"
+    },
+    {
+        "id": 3,
+        "query": "What is the recommended initial pharmacological treatment?"
+    },
+    {
+        "id": 4,
+        "query": "When should treatment be intensified?"
+    },
+    {
+        "id": 5,
+        "query": "When should an SGLT2 inhibitor be considered?"
+    },
+    {
+        "id": 6,
+        "query": "What are the recommendations for patients with chronic kidney disease?"
+    },
+    {
+        "id": 7,
+        "query": "What are the recommendations for patients with cardiovascular disease?"
+    },
+    {
+        "id": 8,
+        "query": "How should blood glucose control be monitored?"
+    }
+]
